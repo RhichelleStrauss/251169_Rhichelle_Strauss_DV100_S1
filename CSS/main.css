@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.elephant{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+    padding-left: 5cm;
+    padding-right: 5cm;
+    
+}
+
+button{
+    background-color: #F24EA1;
+    border:none;
+    color: aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: ridge;
+
+}
+.topNav{
+    overflow: hidden;
+    background-color: blanchedalmond;
+
+}
+
+.topNav a{
+    float:left;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topNavRight{
+    float: right;
+
+}
+
+.topNav a:hover{
+    background-color: antiquewhite;
+    color: brown;
+}
+
+.topNav a:active{
+    background-color: aquamarine;
+    color: black;
+}
